@@ -1,0 +1,3 @@
+*.vnexpress.net
+*.tinhte.vn
+tinhte.vn
