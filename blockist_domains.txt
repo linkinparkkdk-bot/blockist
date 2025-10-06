@@ -1,4 +1,8 @@
 *.vnexpress.net
+vnexpress.net
 *.tinhte.vn
+tinhte.vn
 *.24h.com.vn
+24h.com.vn
 *.poki.com
+poki.com
