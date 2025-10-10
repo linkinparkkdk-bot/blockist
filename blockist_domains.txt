@@ -3,7 +3,7 @@ gamepix.com
 armorgames.com
 roblox.com
 bloxd.io
-y8.com
+*.y8.com
 poki.com
 crazygames.com
 gamevui.vn
