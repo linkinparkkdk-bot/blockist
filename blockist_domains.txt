@@ -1,3 +1,4 @@
+*playhop*
 *.silvergames.com
 *.gamepix.com
 *.armorgames.com
