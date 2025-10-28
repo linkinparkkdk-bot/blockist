@@ -1,3 +1,12 @@
+*.urban-vpn.com
+*.hola.org
+*.1clickvpn.net
+*.freevpn.me
+*.hide.me
+*.protonvpn.com
+*.nordvpn.com
+*.expressvpn.com
+*.yandex.com
 *playhop*
 *.silvergames.com
 *.gamepix.com
