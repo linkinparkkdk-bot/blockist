@@ -1,3 +1,13 @@
+epicunitscan.info
+lb-66q7z1es-waue3tzmlb12hgn6.clb.sg-tencentclb.cloud
+*.mpvflv.com
+omni.vn
+*.zspeed-cdn.com
+*.holax.io
+*.su89-cdn.net
+*.bumble.com
+*.moviking.com
+*.minepi.com
 *.urban-vpn.com
 *.hola.org
 *.1clickvpn.net
