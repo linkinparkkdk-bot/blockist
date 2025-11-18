@@ -1,0 +1,11 @@
+*google*
+*.amazonaws.com
+*.worldfone.vn
+*.fbcdn.net
+*.facebook.com
+*.cloudapp.azure.com
+*.microsoft.com
+*tiktok*
+*.zalo.me
+*.grabtaxi.com
+*.amazon.com
