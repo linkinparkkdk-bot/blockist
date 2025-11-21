@@ -1,3 +1,16 @@
+*.bittorrent.com
+*.utorrent.com
+*.thepiratebay.org
+*.torrentgalaxy.to
+*.1337x.to
+*.rarbg.to
+*.yts.mx
+*.tracker.opentrackr.org
+*.openbittorrent.com
+*.torrentdownload.ch
+*.nyaa.si
+*.coccocbrowser.com
+*.coccoc.vn
 *.coccoc.com
 *motphim*
 *tytnovel*
