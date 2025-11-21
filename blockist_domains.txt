@@ -1,3 +1,4 @@
+*.coccoc.com
 *motphim*
 *tytnovel*
 *motchill*
