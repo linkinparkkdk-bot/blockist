@@ -6,7 +6,7 @@
 *.torrentgalaxy.to
 *.1337x.to
 *.rarbg.to
-*.yts.mx
+*yts*
 *.tracker.opentrackr.org
 *.openbittorrent.com
 *.torrentdownload.ch
