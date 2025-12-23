@@ -31,3 +31,5 @@
 *.shopeemobile.com
 *.vnpay.vn
 *.vnpaycloud.vn
+*.windows.com
+1-apollo.worldfone.vn
