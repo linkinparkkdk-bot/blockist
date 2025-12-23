@@ -9,3 +9,8 @@
 *.zalo.me
 *.grabtaxi.com
 *.amazon.com
+*.apple.com
+*.apollo.vn
+*.apollo.edu.vn
+*.twitter.com
+*.twimg.com
