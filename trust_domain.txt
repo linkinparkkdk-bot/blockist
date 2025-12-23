@@ -20,3 +20,5 @@
 *.chatgpt.com
 *.shopee.vn
 *.office.com
+*.netflix.com
+*.classdojo.com
