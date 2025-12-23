@@ -23,3 +23,11 @@
 *.netflix.com
 *.classdojo.com
 *.youtube.com
+*.grammarly.com
+*.vieon.vn
+*.instagram.com
+*.canva.com
+*.zaloapp.com
+*.shopeemobile.com
+*.vnpay.vn
+*.vnpaycloud.vn
