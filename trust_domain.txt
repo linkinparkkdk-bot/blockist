@@ -14,3 +14,9 @@
 *.apollo.edu.vn
 *.twitter.com
 *.twimg.com
+*.spotify.com
+*.tiktokv.com
+*.zoom.us
+*.chatgpt.com
+*.shopee.vn
+*.office.com
