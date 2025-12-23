@@ -22,3 +22,4 @@
 *.office.com
 *.netflix.com
 *.classdojo.com
+*.youtube.com
