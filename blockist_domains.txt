@@ -1,3 +1,4 @@
+*.brave.com
 *.nordcdn.com
 *.nordlynx.com
 *.bittorrent.com
