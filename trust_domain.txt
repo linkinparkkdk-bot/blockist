@@ -18,6 +18,7 @@
 *.tiktokv.com
 *.zoom.us
 *.chatgpt.com
+chatgpt.com
 *.shopee.vn
 *.office.com
 *.netflix.com
@@ -33,3 +34,11 @@
 *.vnpaycloud.vn
 *.windows.com
 1-apollo.worldfone.vn
+*.office365.com
+*.outlook.com
+*.learn.eltngl.com
+*.ubnt.com
+*.itunes-apple.com.akadns.net
+*.cisco.com
+*.account.samsung.com
+*.capcut.com
