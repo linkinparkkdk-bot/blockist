@@ -1,3 +1,4 @@
+*.dd133.com
 *.brave.com
 *.nordcdn.com
 *.nordlynx.com
