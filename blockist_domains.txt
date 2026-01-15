@@ -47,7 +47,7 @@ omni.vn
 *.bloxd.io
 *rophim*
 *.y8.com
-*.poki.com
+*poki*
 *truyen*
 *crazygames*
 *.gamevui.vn
