@@ -1,3 +1,5 @@
+*.sflix2.to
+*.oamoameevee.net
 *.dd133.com
 *.brave.com
 *.nordcdn.com
