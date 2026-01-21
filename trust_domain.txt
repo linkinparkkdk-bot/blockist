@@ -1,3 +1,7 @@
+cloudflare-dns.com
+*.youtube.com
+dns.msftncsi.com
+ipv6.msftconnecttest.com
 *.adobe.com
 *.cloud.microsoft
 *.grab.com
