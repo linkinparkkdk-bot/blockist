@@ -1,3 +1,5 @@
+*.eset.com
+*.baohiemxahoi.gov.vn
 *google*
 *.amazonaws.com
 *.worldfone.vn
