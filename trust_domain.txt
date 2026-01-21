@@ -1,3 +1,7 @@
+*.adobe.com
+*.cloud.microsoft
+*.grab.com
+gmail.com
 *.eset.com
 *.baohiemxahoi.gov.vn
 *google*
