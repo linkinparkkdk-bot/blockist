@@ -1,3 +1,4 @@
+*.tpb.party
 *.crotorrents.com
 *.fitgirl-repacks.site
 *.igg-games.com
