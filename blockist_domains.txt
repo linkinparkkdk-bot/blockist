@@ -18,7 +18,6 @@
 *.brave.com
 *.nordcdn.com
 *.nordlynx.com
-*.thepiratebay.org
 *.1337x.to
 *.rarbg.to
 *yts*
@@ -71570,9 +71569,6 @@ theoldermature.com
 theothertentacle.com
 comisc.theothertentacle.com
 thepervs.com
-thepiratebay0.org
-thepiratebay10.org
-www.thepiratebay10.org
 theporn.house
 theporn.how
 theporn.online
