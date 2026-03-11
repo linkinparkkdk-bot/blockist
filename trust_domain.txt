@@ -1,3 +1,5 @@
+apollocc.talk3.worldfone.cloud
+*.ooolab.edu.vn
 cloudflare-dns.com
 *.youtube.com
 dns.msftncsi.com
@@ -5,7 +7,7 @@ ipv6.msftconnecttest.com
 *.adobe.com
 *.cloud.microsoft
 *.grab.com
-gmail.com
+*.gmail.com
 *.eset.com
 *.baohiemxahoi.gov.vn
 *google*
