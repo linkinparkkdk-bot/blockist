@@ -1,3 +1,4 @@
+*.cpuid.com
 *porn*
 *.tpb.party
 *torrent*
